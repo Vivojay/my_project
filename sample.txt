@@ -1,5 +1,5 @@
-Hello my name is Vivan
-This is a sample project.
+Hello my name is Vivan Jaiswal.
+This is a short sample project.
 
-
+Bye...
 
